@@ -4,6 +4,8 @@ Construído utilizando python como linguagem de programação, conceitos básico
 
 /UTILIZAÇÃO/
 
+O usuário deverá possuir baixado em seu computador o banco de dados MariaDB, criar usuário e senha para o servidor, para assim, rodar de acordo com suas configurações. Utilize o HeidiSQL como ferramenta de administração gráfica.
+
 Ao rodar o código, irá aparecer uma aba no terminal com as seguintes opções: 1-Inserir, 2-Remover, 3-Listar, 4-Feita, 5-Sair
 
 Basta escolher entre as opções acima e em seguida digitar a tarefa a ser adicionada, removida ou marcada como "Concluída".
